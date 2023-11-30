@@ -1,0 +1,3 @@
+[submodule "modules/test"]
+	path = modules/test
+	url = git@github.com:newilu/submodule-1.git
